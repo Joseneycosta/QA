@@ -1,0 +1,22 @@
+{
+  "name": "qa",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseneycosta/QA.git"
+  },
+  "author": "Joseneycosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joseneycosta/QA/issues"
+  },
+  "homepage": "https://github.com/Joseneycosta/QA#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
